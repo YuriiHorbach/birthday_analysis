@@ -1,8 +1,8 @@
 require 'date'
 
-puts '-'*26
+puts '-'*22
 puts "| Birthdays Analysis |"
-puts '-'*26
+puts '-'*22
 
 puts "What year were you born?"
 
